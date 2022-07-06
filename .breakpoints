@@ -1,0 +1,120 @@
+{
+  "files": {
+    "commands/support/collect.js": [
+      {
+        "id": "ba45fe2c-901d-444c-9262-daaea472da2b",
+        "line": 16,
+        "version": 1,
+        "index": 483
+      },
+      {
+        "id": "f0922957-9fee-4e3d-93a8-c4ff3a26f6e7",
+        "line": 24,
+        "version": 1,
+        "index": 818
+      },
+      {
+        "id": "c10d1c12-da03-45cd-b051-c7a3ccb0c27a",
+        "line": 29,
+        "version": 1,
+        "index": 1032
+      }
+    ],
+    "commands/support/design.js": [
+      {
+        "id": "b0016788-e00d-4b84-bd05-38853336b886",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      },
+      {
+        "id": "0256ccfd-8843-499c-912a-87f003a97a46",
+        "line": 2,
+        "version": 1,
+        "index": 51
+      },
+      {
+        "id": "44908094-37c6-41ba-a07c-8d4d79f54149",
+        "line": 15,
+        "version": 1,
+        "index": 352
+      },
+      {
+        "id": "fc711f0a-f89b-410e-bf8b-c6a58574314d",
+        "line": 27,
+        "version": 1,
+        "index": 1054
+      },
+      {
+        "id": "05d828c3-91d3-4a32-977c-d05fb2e38011",
+        "line": 35,
+        "version": 1,
+        "index": 1474
+      }
+    ],
+    "commands/support/done.js": [
+      {
+        "id": "fcdee01a-3ea9-452a-8ea6-08995a2ae766",
+        "line": 27,
+        "version": 1,
+        "index": 875
+      },
+      {
+        "id": "7c0fda44-afd5-423d-b1ad-1caeb5d04365",
+        "line": 27,
+        "version": 1,
+        "index": 875
+      }
+    ],
+    "commands/support/price.js": [
+      {
+        "id": "24168598-579d-4733-89cf-ffc984826d10",
+        "line": 16,
+        "version": 1,
+        "index": 351
+      },
+      {
+        "id": "5d568940-06cd-4c28-abfe-b84d8cf89c5f",
+        "line": 16,
+        "version": 1,
+        "index": 351
+      },
+      {
+        "id": "22a1865b-e66f-473d-a2a1-bc7005021aea",
+        "line": 29,
+        "version": 1,
+        "index": 941
+      }
+    ],
+    "commands/support/tax.js": [
+      {
+        "id": "452bda0f-707c-4139-9b01-233fcd6a77e9",
+        "line": 23,
+        "version": 1,
+        "index": 800
+      }
+    ],
+    "index.js": [
+      {
+        "id": "46ab35d7-dc00-4f1f-81fc-92c1d4f6994f",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "package.json": [
+      {
+        "id": "79abbcef-8bc1-489e-b678-a3a713f5ff5e",
+        "line": 6,
+        "version": 1,
+        "index": 96
+      },
+      {
+        "id": "844f239f-ddcb-482e-bc97-8edc7826e23e",
+        "line": 16,
+        "version": 1,
+        "index": 407
+      }
+    ]
+  }
+}

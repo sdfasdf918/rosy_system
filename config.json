@@ -1,0 +1,6 @@
+{
+    "token": "OTc3ODYzMzczMjAwOTY5Nzc5.Gai5kL.6x_WtiX-vST7bleCJKiIw7frc-XV2rQhNhQ-gY",
+    "prefix": "!",
+    "color": "RED",
+    "mongooseConnectionString": "mongodb+srv://tony:youssef@cluster0.d4n6j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
